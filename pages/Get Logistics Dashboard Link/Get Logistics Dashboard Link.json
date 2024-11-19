@@ -1,0 +1,43 @@
+{
+  "unpublishedPage": {
+    "name": "Get Logistics Dashboard Link",
+    "slug": "get-logistics-dashboard-link",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 520,
+          "containerStyle": "none",
+          "snapRows": 51,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 90,
+          "minHeight": 530,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Get Logistics Dashboard Link",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policyMap": {},
+    "isHidden": true
+  },
+  "gitSyncId": "672d9d0fa5901e3378018099_e26c677d-6fe4-46f1-b39e-b7e3bd5af234",
+  "deleted": false
+}
