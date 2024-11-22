@@ -1,11 +1,11 @@
 {
+  "gitSyncId": "672d9d0fa5901e3378018099_24d668e1-2845-408c-aac1-c0173bc507cb",
+  "id": "Get Brand Dashboard Link_JSObject1",
   "unpublishedCollection": {
     "name": "JSObject1",
     "pageId": "Get Brand Dashboard Link",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
     "variables": [
       {
         "name": "myVar1",
@@ -15,10 +15,6 @@
         "name": "myVar2",
         "value": "{}"
       }
-    ],
-    "userPermissions": []
-  },
-  "gitSyncId": "672d9d0fa5901e3378018099_24d668e1-2845-408c-aac1-c0173bc507cb",
-  "id": "Get Brand Dashboard Link_JSObject1",
-  "deleted": false
+    ]
+  }
 }
